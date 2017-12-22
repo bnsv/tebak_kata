@@ -1,0 +1,7 @@
+[package]
+name = "coba_006"
+version = "0.1.0"
+authors = ["Andi Bensisva <bensisva@gmail.com>"]
+
+[dependencies]
+rand = "*"
